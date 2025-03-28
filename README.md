@@ -1,7 +1,7 @@
 # phpfiles
 <h2>practice  array question in php </h2>
 <br>
-1.TO count occurance of an array.
+1. count occurance of an array.
 <br>
 2.find the max value from the array.
 <br>
